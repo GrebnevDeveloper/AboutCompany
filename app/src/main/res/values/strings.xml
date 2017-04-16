@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutCompany</string>
+    <string name="dialog_title">Processing</string>
+    <string name="dialog_message">Please wait!</string>
+    <string name="phone_extension">Phone:&#160;</string>
+    <string name="skills_extension">Skills:&#160;</string>
+    <string name="years_extension">&#160;years</string>
+    <string name="no_file">No file</string>
+    <string name="no_internet_connection">No internet connection</string>
+</resources>
